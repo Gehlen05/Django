@@ -11,6 +11,7 @@
 
 - Descrição:
     - Este diretório contem três pastas onde cada pasta contem suas descrições.
+    - Sendo que o Django-3 é o mais completo até o momento
 
 
 
