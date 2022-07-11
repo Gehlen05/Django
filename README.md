@@ -6,7 +6,7 @@
 - Escola: Geek University
 - Link: <a href="https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/"> Django Framework</a>
 - Programador:
-    - Alexsandro Gehlen
+    - Gehlen
    
 
 - Descrição:
