@@ -48,3 +48,11 @@ Executar projeto na maquina local
 ```
 - python manage.py runserver
 ```
+
+Executar testes(necessário instalar coverage)
+```
+
+- coverage run manage.py test
+- coverage html
+
+```
