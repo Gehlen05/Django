@@ -10,8 +10,13 @@
    
 
 - Descrição:
-    - Este diretório contem três pastas onde cada pasta contem suas descrições.
+    - Este diretório contem pastas onde cada pasta contem suas descrições.
     - Sendo que o Django-3 é o mais completo até o momento
+    1- Projeto inicial para entender a lógica de desenvolvimento de sistemas em Django.
+    2- Projeto inicial para entender a lógica de desenvolvimento de sistemas em Django.
+    3- Projeto de um site de uma empresa de nome Fusion, onde é utilizado banco de dados e forms aplicado BasedView.
+    4- Projeto para utilização de usuarios e models.
+    5- Projeto para interação entre models.
 
 
 
